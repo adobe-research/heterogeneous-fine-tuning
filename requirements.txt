@@ -1,0 +1,7 @@
+Python==3.7
+nltk
+transformers
+torch
+matplotlib
+pandas
+numpy
