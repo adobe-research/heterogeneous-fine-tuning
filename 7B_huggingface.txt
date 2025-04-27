@@ -1,0 +1,1 @@
+LLaMA weights can be downloaded from https://ai.meta.com/blog/large-language-model-llama-meta-ai/.
