@@ -1,6 +1,6 @@
 #  A Framework for Fine-Tuning LLMs using Heterogeneous Feedback 
 
-This repository contains the code and data associated with our RANLPL 2025 paper [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](https://arxiv.org/abs/2408.02861) by Ryan Aponte, Ryan A. Rossi, Shunan Guo, Franck Dernoncourt, Tong Yu, Xiang Chen, Subrata Mitra, and Nedim Lipka.
+This repository contains the code and data associated with our RANLP 2025 paper [A Framework for Fine-Tuning LLMs using Heterogeneous Feedback](https://arxiv.org/abs/2408.02861) by Ryan Aponte, Ryan A. Rossi, Shunan Guo, Franck Dernoncourt, Tong Yu, Xiang Chen, Subrata Mitra, and Nedim Lipka.
 
 Fine-tuning was performed on 8xA100-80GB and Python 3.7 was used. Fine-tuning was performed with [Stack-LLaMA](https://github.com/huggingface/trl/tree/main/examples/research_projects/stack_llama/scripts) and the entire process took under 24 hours per model.
 
